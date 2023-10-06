@@ -1,0 +1,62 @@
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.staticwebassets.runtime.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.exe
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.deps.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.runtimeconfig.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.dll
+C:\Users\rikesh\source\repos\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.pdb
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.csproj.AssemblyReference.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.AssemblyInfoInputs.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.AssemblyInfo.cs
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.RazorAssemblyInfo.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.RazorAssemblyInfo.cs
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.Azure Storage Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Azure Storage Demo.props
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Azure Storage Demo.props
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Azure Storage Demo.props
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\scopedcss\bundle\Azure Storage Demo.styles.css
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\scopedcss\projectbundle\Azure Storage Demo.bundle.scp.css
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.dll
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\refint\Azure Storage Demo.dll
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.pdb
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.genruntimeconfig.cache
+C:\Users\rikesh\source\repos\Azure Storage Demo\obj\Debug\net6.0\ref\Azure Storage Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.staticwebassets.runtime.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.exe
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.deps.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.runtimeconfig.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure Storage Demo.pdb
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.csproj.AssemblyReference.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.AssemblyInfoInputs.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.AssemblyInfo.cs
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.RazorAssemblyInfo.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.RazorAssemblyInfo.cs
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.Azure Storage Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Azure Storage Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Azure Storage Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Azure Storage Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\bundle\Azure Storage Demo.styles.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\projectbundle\Azure Storage Demo.bundle.scp.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\refint\Azure Storage Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.pdb
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure Storage Demo.genruntimeconfig.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\ref\Azure Storage Demo.dll
