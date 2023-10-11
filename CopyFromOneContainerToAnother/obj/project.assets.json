@@ -763,9 +763,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\CopyFromOneContainerToAnother.csproj",
-      "projectName": "CopyFromOneContainerToAnother",
-      "projectPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\CopyFromOneContainerToAnother.csproj",
+      "projectUniqueName": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\Azure Storage Demo.csproj",
+      "projectName": "Azure Storage Demo",
+      "projectPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\Azure Storage Demo.csproj",
       "packagesPath": "C:\\Users\\rikesh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\obj\\",
       "projectStyle": "PackageReference",

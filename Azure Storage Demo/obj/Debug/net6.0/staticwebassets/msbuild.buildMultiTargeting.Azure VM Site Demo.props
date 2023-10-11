@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Azure VM Site Demo.props" />
+</Project>

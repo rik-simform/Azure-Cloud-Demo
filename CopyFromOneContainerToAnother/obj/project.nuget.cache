@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nKCyMo3WRO8jFHer6gK8tRFXk3EQ+LAmkqOOLM6J36Jaf7LB2R5a0O4PzX57+Vyy2rjrlCv5t3jSw206pY5rw==",
+  "dgSpecHash": "BTcOD7uhbc1NVorT/LYhI+oeoVuTgiez/PC5cbYlA9ZCTKuM/oF+wDuMYfbs8YxqPYUs5ohA7X2Uj13ju43zNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\CopyFromOneContainerToAnother.csproj",
+  "projectFilePath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\CopyFromOneContainerToAnother\\Azure Storage Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rikesh\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\rikesh\\.nuget\\packages\\azure.storage.blobs\\12.18.0\\azure.storage.blobs.12.18.0.nupkg.sha512",

@@ -1,0 +1,9 @@
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\Azure VM Site Demo.exe
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\ARMparameters.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\ARMtemplate.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\Azure VM Site Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\Azure VM Site Demo.deps.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\Azure VM Site Demo.runtimeconfig.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Release\net6.0\PubTmp\Out\Azure VM Site Demo.pdb

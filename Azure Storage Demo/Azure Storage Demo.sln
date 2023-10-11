@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure Storage Demo", "Azure Storage Demo.csproj", "{6D7D62BD-AAA9-4B10-AB17-B7A7E8853723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure VM Site Demo", "Azure VM Site Demo.csproj", "{6D7D62BD-AAA9-4B10-AB17-B7A7E8853723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFromOneContainerToAnother", "..\CopyFromOneContainerToAnother\CopyFromOneContainerToAnother.csproj", "{79A9C784-C998-4330-9FB6-E9BBB217757C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Azure Storage Demo", "..\CopyFromOneContainerToAnother\Azure Storage Demo.csproj", "{79A9C784-C998-4330-9FB6-E9BBB217757C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

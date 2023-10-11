@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure Storage Demo.csproj",
-      "projectName": "Azure Storage Demo",
-      "projectPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure Storage Demo.csproj",
+      "projectUniqueName": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure VM Site Demo.csproj",
+      "projectName": "Azure VM Site Demo",
+      "projectPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure VM Site Demo.csproj",
       "packagesPath": "C:\\Users\\rikesh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\obj\\",
       "projectStyle": "PackageReference",

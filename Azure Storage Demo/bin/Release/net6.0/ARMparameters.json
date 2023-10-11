@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "RikeshTestingPoc"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "dnsLabelPrefix": {
+            "value": "testingpoc-vm-r5iymqjcqrhvu"
+        },
+        "publicIpName": {
+            "value": "RikeshPublicIP"
+        },
+        "publicIPAllocationMethod": {
+            "value": "Dynamic"
+        },
+        "publicIpSku": {
+            "value": "Basic"
+        },
+        "osVersion": {
+            "value": "2022-datacenter-azure-edition"
+        },
+        "vmSize": {
+            "value": "Standard_D2s_v5"
+        },
+        "location": {
+            "value": "centralindia"
+        },
+        "vmName": {
+            "value": "testingpoc-vm"
+        },
+        "securityType": {
+            "value": "TrustedLaunch"
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Azure Storage Demo.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Azure Storage Demo.bundle.scp.css"
+      "Id": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Azure VM Site Demo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Azure VM Site Demo.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\wwwroot\\Images\\Apples.jpg",
@@ -257,20 +257,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Azure Storage Demo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Azure VM Site Demo.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Azure Storage Demo.props",
-      "PackagePath": "build\\Azure Storage Demo.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Azure VM Site Demo.props",
+      "PackagePath": "build\\Azure VM Site Demo.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Azure Storage Demo.props",
-      "PackagePath": "buildMultiTargeting\\Azure Storage Demo.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Azure VM Site Demo.props",
+      "PackagePath": "buildMultiTargeting\\Azure VM Site Demo.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Azure Storage Demo.props",
-      "PackagePath": "buildTransitive\\Azure Storage Demo.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Azure VM Site Demo.props",
+      "PackagePath": "buildTransitive\\Azure VM Site Demo.props"
     }
   ],
   "ElementsToRemove": []

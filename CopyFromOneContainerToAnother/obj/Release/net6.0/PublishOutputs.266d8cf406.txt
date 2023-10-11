@@ -1,0 +1,23 @@
+C:\Users\rikesh\Publish Build\Demo\Azure Storage Demo.exe
+C:\Users\rikesh\Publish Build\Demo\Azure Storage Demo.dll
+C:\Users\rikesh\Publish Build\Demo\Azure Storage Demo.deps.json
+C:\Users\rikesh\Publish Build\Demo\Azure Storage Demo.runtimeconfig.json
+C:\Users\rikesh\Publish Build\Demo\Azure Storage Demo.pdb
+C:\Users\rikesh\Publish Build\Demo\Azure.Core.dll
+C:\Users\rikesh\Publish Build\Demo\Azure.Storage.Blobs.dll
+C:\Users\rikesh\Publish Build\Demo\Azure.Storage.Common.dll
+C:\Users\rikesh\Publish Build\Demo\Grpc.Core.dll
+C:\Users\rikesh\Publish Build\Demo\Grpc.Core.Api.dll
+C:\Users\rikesh\Publish Build\Demo\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\rikesh\Publish Build\Demo\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\rikesh\Publish Build\Demo\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rikesh\Publish Build\Demo\Microsoft.Extensions.Primitives.dll
+C:\Users\rikesh\Publish Build\Demo\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rikesh\Publish Build\Demo\System.IO.Hashing.dll
+C:\Users\rikesh\Publish Build\Demo\System.Memory.Data.dll
+C:\Users\rikesh\Publish Build\Demo\System.Web.Http.Common.dll
+C:\Users\rikesh\Publish Build\Demo\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\rikesh\Publish Build\Demo\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\rikesh\Publish Build\Demo\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\rikesh\Publish Build\Demo\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\rikesh\Publish Build\Demo\runtimes\win-x86\native\grpc_csharp_ext.x86.dll

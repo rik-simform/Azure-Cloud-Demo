@@ -1,0 +1,33 @@
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\appsettings.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.staticwebassets.runtime.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.exe
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.deps.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.runtimeconfig.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\Azure VM Site Demo.pdb
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.csproj.AssemblyReference.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.AssemblyInfoInputs.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.AssemblyInfo.cs
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.RazorAssemblyInfo.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.RazorAssemblyInfo.cs
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.Azure VM Site Demo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.build.Azure VM Site Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Azure VM Site Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Azure VM Site Demo.props
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\bundle\Azure VM Site Demo.styles.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\scopedcss\projectbundle\Azure VM Site Demo.bundle.scp.css
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\refint\Azure VM Site Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.pdb
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\Azure VM Site Demo.genruntimeconfig.cache
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\obj\Debug\net6.0\ref\Azure VM Site Demo.dll
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\ARMparameters.json
+C:\Users\rikesh\Documents\Azure-Cloud-Demo\Azure Storage Demo\bin\Debug\net6.0\ARMtemplate.json

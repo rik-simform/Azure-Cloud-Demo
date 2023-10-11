@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aFMXRISYkcSUyvLwP/qJN9rlL7bUzYbqiXtideFJBLyw3Uti+U6ZFRfSEbe+cY/D87x1yxK6KJFoUHg1+jgYlA==",
+  "dgSpecHash": "XxCugO3PNg79Q21JUhY4GsdsPthTc+en4ObYAHKkqshElURjSAQk7XovDtqYkaBgi3wWuT1clHO1r15Iafp91g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure Storage Demo.csproj",
+  "projectFilePath": "C:\\Users\\rikesh\\Documents\\Azure-Cloud-Demo\\Azure Storage Demo\\Azure VM Site Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
